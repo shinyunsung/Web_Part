@@ -1,0 +1,65 @@
+html, body{
+    margin: 0;
+    padding: 0;
+}
+
+form{
+    margin: 0 auto;
+    width: 50%;
+}
+
+p{
+    font-size: 20px;
+    font-weight: bold;
+}
+.tab-lef {
+    padding: 15px;
+    text-align: center;
+    width: 20%;
+    background: #999;
+    border: 1px solid white;
+    color: white;
+    font-size: 14px;
+}
+
+.tab-rig {
+    padding: 15px;
+    width: 80%;
+    border: 1px solid #999;
+    font-size: 13px;
+}
+
+.sign-up > table {
+    margin: 0 auto;
+    width: 90%;
+    border-collapse: collapse;
+}
+
+.sign-up > td {
+    border: 1px solid #d2d0d0;
+}
+
+.sign_up > input {
+    padding: 5px;
+    line-height: 20px;
+}
+
+.sign_up  > button{
+    padding: 5px;
+    height: : 20px;
+}
+
+.email > .tab-rig > input {
+    width: 500px;
+}
+
+.sigUpButton{
+    margin: 0 auto;
+    padding: 20px;
+    width: 90%;
+    height: 50px;
+}
+.sigUpButton button{
+    width: 100%;
+    height: 100%;
+}
